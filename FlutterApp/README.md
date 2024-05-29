@@ -22,7 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Features
-![The app rendering](car_robot/assets/images/app_rendering.png)
+![The app rendering](./car_robot/assets/images/app_rendering.PNG)
 <br>
 *The app rendering*
 
